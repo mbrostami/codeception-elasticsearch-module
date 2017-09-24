@@ -6,6 +6,7 @@ use Codeception\Module;
 
 class ElasticSearch extends Module
 {
+	protected $requiredFields = array('host', 'type');
 
     public function seed()
     {
