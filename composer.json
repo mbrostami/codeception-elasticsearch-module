@@ -1,1 +1,18 @@
-{}
+{
+    "name": "mbr/CodeceptionElasticsearchModule",
+    "description": "Codeception ElasticSearch Module",
+    "authors": [
+        {
+            "name": "Mohammad Rostami",
+            "email": "mb.rostami.h@gmial.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Codeception\\Module\\": "src"
+        }
+    }
+}
