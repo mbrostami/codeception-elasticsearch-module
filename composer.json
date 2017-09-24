@@ -1,5 +1,5 @@
 {
-    "name": "mbr/CodeceptionElasticsearchModule",
+    "name": "mbr/codeception-elasticsearch-module",
     "description": "Codeception ElasticSearch Module",
     "authors": [
         {
